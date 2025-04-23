@@ -1,0 +1,32 @@
+2025-04-22 23:28:54,731 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-22 23:28:54,732 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-22 23:28:55,794 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-22 23:28:55,794 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-22 23:45:12,886 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-22 23:45:12,886 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:04:51,228 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:04:51,228 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:05:05,262 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:05:05,262 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:08:37,630 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:08:37,630 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:08:38,752 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:08:38,752 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:13:29,605 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:13:29,605 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:13:30,785 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:13:30,785 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:26:15,547 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:26:15,547 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:26:16,657 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:26:16,657 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:33:45,834 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:33:45,834 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:34:01,705 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:34:01,705 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:34:05,496 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:34:05,496 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:34:11,402 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:34:11,402 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
+2025-04-23 00:34:12,452 - app - INFO - Flask app logger configured with file and stream handlers.
+2025-04-23 00:34:12,452 - app - WARNING - CORS allows all origins (FRONTEND_URL not set - OK for local dev ONLY)
